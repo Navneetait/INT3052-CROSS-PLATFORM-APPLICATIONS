@@ -1,14 +1,5 @@
-This project was created with [BuilderX](https://builderx.io/).
 
-## BuilderX uses third party libraries for some of the react-native components such as
 
-```
-@builderx/utils@0.1.6
-lodash
-react-navigation@4.0.10
-react-native-svg
-react-native-maps
-```
 
 These packages are included as dependencies in package.json file
 
